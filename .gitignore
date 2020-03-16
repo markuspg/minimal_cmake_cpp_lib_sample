@@ -1,0 +1,11 @@
+# Files
+/CMakeCache.txt
+/Makefile
+/cmake_install.cmake
+/src/Makefile
+/src/cmake_install.cmake
+/src/libminimal_cmake_cpp_lib_sample.so
+
+# Folders
+/CMakeFiles/
+/src/CMakeFiles/
